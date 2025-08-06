@@ -1,1 +1,2 @@
-# Coffee-Shop-Store-project
+# Coffee Shop Store -m Dashboard
+Recommended Structure and Order
